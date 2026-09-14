@@ -1,4 +1,4 @@
-# Trabalho Prático 03 - QuickSort Não Recursivo
+# Trabalho Prático 02 - QuickSort Não Recursivo
 
 Implementação do algoritmo QuickSort iterativo (não recursivo) utilizando uma pilha explícita (`t_stack`) em linguagem C
 
